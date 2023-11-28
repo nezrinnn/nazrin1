@@ -8,8 +8,6 @@ const Cv = () => {
     <div>
 
 
-
-
         
         <PersonalInfo/>
         <Contacts/>
